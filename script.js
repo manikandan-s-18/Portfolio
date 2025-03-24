@@ -5,3 +5,4 @@ document.addEventListener("DOMContentLoaded", function () {
     const width = bar.style.width;
     bar.style.width = "0"; 
     setTimeout
+  });});
